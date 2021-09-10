@@ -1,3 +1,8 @@
+```ino
+/*
+  Dokumentasi
+  https://drive.google.com/file/d/1UgRh_WYd3zT5bLEfXZjVvf0i1JhPX1Yz/view?usp=sharing
+*/
 #include <dht.h>
 #include <LiquidCrystal_I2C.h>
 #define outpin 8
@@ -152,3 +157,4 @@ void loop() {
   
   delay(500);
 }
+```
