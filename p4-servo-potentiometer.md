@@ -1,3 +1,9 @@
+```ino
+/*
+  Dokumentasi
+  https://drive.google.com/file/d/1xE9XT-jS8vkNezukiSTY4FsBn0ydWnwd/view?usp=sharing
+*/
+
 #include <Servo.h>
  
 Servo servo;
@@ -20,3 +26,4 @@ void loop() {
   
   delay(10); 
 }
+```
