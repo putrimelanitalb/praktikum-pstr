@@ -1,3 +1,9 @@
+```ino
+/*
+  Dokumentasi
+  https://drive.google.com/file/d/1cURxHxCf0hdQJCvGVtiqqc_2fHnEAKJN/view?usp=sharing
+*/
+
 int readVal = 0;  // Variabel nilai input dari A0
 int ledVal = 0;   // Variabel nilai output dari potentiometer 
 
@@ -14,3 +20,4 @@ void loop() {
   
   analogWrite(LED_BUILTIN, ledVal);
 }
+```
