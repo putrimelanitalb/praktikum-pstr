@@ -1,3 +1,8 @@
+```ino
+/*
+   Dokumentasi
+   https://drive.google.com/file/d/1RsCHzIimj8qKr9LWPArMbmYQDWtaVTFv/view?usp=sharing
+*/
 #define N 10
 const int BUTTON = 3;
 const int GREEN = 9;
@@ -34,3 +39,4 @@ void loop() {
     digitalWrite(GREEN, HIGH);
   }
 }
+```
